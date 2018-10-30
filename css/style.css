@@ -1,3 +1,4 @@
+
 /*--
 A Design and developed by Milkawork
 Author: Milka Wafula
@@ -222,12 +223,13 @@ body a:focus {
     margin-bottom: 0px;
 }
 h1 a.navbar-brand {
-    font-size: 40px;
+    font-size: 35px;
     color: #ff0a16 !important;
     text-transform: capitalize;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     font-family: 'Dancing Script', cursive;
-    font-weight: 600;
+    font-weight: 700;
+    
 }
 nav.navbar.navbar-default.navbar-fixed-top {
     background: rgba(0, 0, 0, 0.71);
@@ -2186,7 +2188,7 @@ color: #FFFFFF;
 .team-row-agileinfo{
   margin: 4em 0;
 }
-.social-icon.social-w3lsicon a {
+.social-icon.-w3lsicon a {
     margin: 0 0.5em;
 }
 .thumbnail.team-agileits {
@@ -2299,7 +2301,7 @@ p.social {
   p.social a.facebook {
     background-color:  #f7b205;
   }
-  p.social a.gplus {
+  p.social a.youtube {
     background-color: #c21f25;
   }
   p.social a.twitter {
@@ -4145,9 +4147,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 /*/
 =========================================
 =========================================
-
 Christian By BootstrapTemple.com
-
 =========================================
 ========================================= */
 
@@ -4873,6 +4873,4 @@ label {
 
 
 /*
-
-
 /*-- //responsive-design --*/
